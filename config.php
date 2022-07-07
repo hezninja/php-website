@@ -9,7 +9,7 @@
 /*
  * Change this for the URL of your repository.
  */
-define('PRISMIC_URL', 'https://your-repo-name.prismic.io/api/v2');
+define('PRISMIC_URL', 'https://thisisperiscope-test.prismic.io/api/v2');
 define('PRISMIC_TOKEN', null);
 
 /*
