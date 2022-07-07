@@ -12,7 +12,7 @@ $isHomepage = true;
 ?>
 
 <?php include 'header.php'; ?>
-
+SOMETHING
 <?php $banner = $pageContent->data->homepage_banner[0]; ?> 
 <?php $bannerUrl = !$banner->image ? $banner->image->url : ''; ?>
 <section class="homepage-banner" style="background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)), url(<?= $bannerUrl ?>)">
